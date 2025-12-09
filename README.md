@@ -67,6 +67,13 @@
 
 ---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saksham2064&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
 ## ✨ Fun Fact
 💥 I learn best by breaking things first — then rebuilding them better!
-

@@ -39,7 +39,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,nodejs,mongodb,html,css,git" height="55"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,nodejs,mongodb,html,css,git,tailwind" height="55"/>
 </p>
 
 ---

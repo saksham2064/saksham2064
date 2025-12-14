@@ -76,4 +76,4 @@
 ---
 
 ## ✨ Fun Fact
-💥 I learn best by breaking things first — then rebuilding them better!
+💥 I learn best by breaking things first — then rebuilding them better
